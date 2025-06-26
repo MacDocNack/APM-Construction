@@ -82,8 +82,8 @@
 
 Если вы хотите связаться со мной по каким-либо вопросам, то вот контакты
 
-***ВК***: https://vk.com/macdocnack
+***ВК***: *https://vk.com/macdocnack*
 
-***Telegram***: @Macdocnack
+***Telegram***: *t.me/Macdocnack*
 
 При связи напишите, что вы нашли меня через GitHub, иначе вы будете заблокированы.
