@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Pages\AuthorizationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\EmployeePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Project\ProjectCreateForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Project\ProjectEditForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Project\ProjectPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Project\ProjectViewForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\RegistrationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ResourcePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Task\TaskCreateForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Task\TaskEditForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Task\TaskPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Task\TaskViewForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ClientForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ContractorForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EmployeeForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\RequiredResources.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ResourcesForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\EmployeePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Project\ProjectCreateForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Project\ProjectEditForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Project\ProjectPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Project\ProjectViewForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ResourcePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Task\TaskCreateForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Task\TaskEditForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Task\TaskPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Task\TaskViewForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ClientForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ContractorForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\EmployeeForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\RequiredResources.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ResourcesForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

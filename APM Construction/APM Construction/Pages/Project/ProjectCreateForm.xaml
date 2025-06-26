@@ -1,0 +1,86 @@
+﻿<Page x:Class="APM_Construction.Pages.ProjectCreateForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:APM_Construction.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProjectCreateForm"
+      Background="AliceBlue">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="10">
+            <Label Content="Project Name"/>
+            <TextBox Name="ProjectName"/>
+            <Label Content="Budget"/>
+            <TextBox Name="Budget" MaxLength="10" PreviewTextInput="Budget_PreviewTextInput"/>
+
+            <!--Client form-->
+            <StackPanel Margin="0,10,0,0">
+                <Grid>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Client"/>
+                            <ComboBox Name="ClientList" Width="200" Height="25" ItemTemplate="{DynamicResource ResourceKey=ClientTemplate}"/>
+                        </StackPanel>
+                        <Button Background="Transparent" HorizontalAlignment="Left" Foreground="Blue" BorderThickness="0" Content="New Client" Click="CreateClient"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+
+            <!--Contructor form-->
+            <StackPanel Margin="0,10,0,0">
+                <Grid>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Contractor"/>
+                            <ComboBox Name="ContractorList" Width="200" Height="25" ItemTemplate="{DynamicResource ResourceKey=ContractorTemplate}"/>
+                        </StackPanel>
+                        <Button Background="Transparent" HorizontalAlignment="Left" Foreground="Blue" BorderThickness="0" Content="New Contractor" Click="CreateContractor"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="10">
+            <Label Content="Description"/>
+            <TextBox Name="Description" Height="140" FontSize="16" TextWrapping="WrapWithOverflow"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="2">
+            <StackPanel Margin="0,10,0,0">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="State"/>
+                        <ComboBox Name="StateList" Height="23"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <Label Content="Date Start"/>
+            <DatePicker Name="DateStart"/>
+            <Label Content="Date End"/>
+            <DatePicker Name="DateEnd"/>
+            <Label Content="Required resources"/>
+            <ListView Name="RequiredResourceList" Height="150" ItemTemplate="{DynamicResource ResourceKey=RequiredResourceTemplate}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Add" Margin="5" Click="AddRequiredResource"/>
+                <Button Content="Remove" Margin="5" Click="RemoveRequiredResource"/>
+                <Button Content="Clear" Margin="5" Click="ClearAllRequiredResources"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5" VerticalAlignment="Bottom">
+            <Button Content="Create project" Margin="5" Click="CreateProject"/>
+            <Button Content="Back" Click="GoBack" Margin="5"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

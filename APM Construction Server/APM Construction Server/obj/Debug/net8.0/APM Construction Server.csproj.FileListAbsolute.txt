@@ -1,0 +1,106 @@
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfo.cs
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.sourcelink.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.staticwebassets.endpoints.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.exe
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.deps.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.runtimeconfig.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.pdb
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\scopedcss\bundle\APM Construction Server.styles.css
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.APM Construction Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.APM Construction Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.build.APM Construction Server.props
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APM Construction Server.props
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APM Construction Server.props
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Cons.F81C17F6.Up2Date
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\refint\APM Construction Server.dll
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.pdb
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.genruntimeconfig.cache
+C:\Users\User\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\ref\APM Construction Server.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.exe
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.deps.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.runtimeconfig.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.pdb
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfo.cs
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.APM Construction Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.build.APM Construction Server.props
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APM Construction Server.props
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APM Construction Server.props
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\scopedcss\bundle\APM Construction Server.styles.css
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Cons.F81C17F6.Up2Date
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\refint\APM Construction Server.dll
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.pdb
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.genruntimeconfig.cache
+C:\Users\student\source\repos\APM Construction Server\APM Construction Server\obj\Debug\net8.0\ref\APM Construction Server.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.staticwebassets.endpoints.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.exe
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.deps.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.runtimeconfig.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\APM Construction Server.pdb
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.AssemblyInfo.cs
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.sourcelink.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\scopedcss\bundle\APM Construction Server.styles.css
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.APM Construction Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.APM Construction Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.build.APM Construction Server.props
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APM Construction Server.props
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APM Construction Server.props
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Cons.F81C17F6.Up2Date
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\refint\APM Construction Server.dll
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.pdb
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\APM Construction Server.genruntimeconfig.cache
+C:\Users\User\source\repos\APM\APM Construction Server\APM Construction Server\obj\Debug\net8.0\ref\APM Construction Server.dll

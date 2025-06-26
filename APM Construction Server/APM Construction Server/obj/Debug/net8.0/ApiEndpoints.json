@@ -1,0 +1,1160 @@
+[
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ClientController",
+    "Method": "GetClients",
+    "RelativePath": "api/Client",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Client, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ClientController",
+    "Method": "Post",
+    "RelativePath": "api/Client",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientData",
+        "Type": "APM_Construction_Server.Models.Client",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ClientController",
+    "Method": "GetClient",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Client",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ClientController",
+    "Method": "Put",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "clientData",
+        "Type": "APM_Construction_Server.Models.Client",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ClientController",
+    "Method": "Delete",
+    "RelativePath": "api/Client/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ContractorController",
+    "Method": "GetContractors",
+    "RelativePath": "api/Contractor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Contractor, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ContractorController",
+    "Method": "Post",
+    "RelativePath": "api/Contractor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contractorData",
+        "Type": "APM_Construction_Server.Models.Contractor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ContractorController",
+    "Method": "GetContractor",
+    "RelativePath": "api/Contractor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Contractor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ContractorController",
+    "Method": "Put",
+    "RelativePath": "api/Contractor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contractorData",
+        "Type": "APM_Construction_Server.Models.Contractor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ContractorController",
+    "Method": "Delete",
+    "RelativePath": "api/Contractor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.EmployeeController",
+    "Method": "GetEmployees",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Employee, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.EmployeeController",
+    "Method": "Post",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeData",
+        "Type": "APM_Construction_Server.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.EmployeeController",
+    "Method": "GetEmployee",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Employee",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.EmployeeController",
+    "Method": "Put",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeData",
+        "Type": "APM_Construction_Server.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.FinanceOperationController",
+    "Method": "GetFinanceOperations",
+    "RelativePath": "api/FinanceOperation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.FinanceOperation, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.FinanceOperationController",
+    "Method": "Post",
+    "RelativePath": "api/FinanceOperation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "financeOperationData",
+        "Type": "APM_Construction_Server.Models.FinanceOperation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.FinanceOperationController",
+    "Method": "GetFinanceOperation",
+    "RelativePath": "api/FinanceOperation/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.FinanceOperation",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.FinanceOperationController",
+    "Method": "Put",
+    "RelativePath": "api/FinanceOperation/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "financeOperationData",
+        "Type": "APM_Construction_Server.Models.FinanceOperation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.FinanceOperationController",
+    "Method": "Delete",
+    "RelativePath": "api/FinanceOperation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.JobController",
+    "Method": "GetJobs",
+    "RelativePath": "api/Job",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Job, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.JobController",
+    "Method": "Post",
+    "RelativePath": "api/Job",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobData",
+        "Type": "APM_Construction_Server.Models.Job",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.JobController",
+    "Method": "GetJob",
+    "RelativePath": "api/Job/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Job",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.JobController",
+    "Method": "Put",
+    "RelativePath": "api/Job/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "jobData",
+        "Type": "APM_Construction_Server.Models.Job",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.JobController",
+    "Method": "Delete",
+    "RelativePath": "api/Job/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectController",
+    "Method": "GetProjects",
+    "RelativePath": "api/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Project, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectController",
+    "Method": "Post",
+    "RelativePath": "api/Project",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectData",
+        "Type": "APM_Construction_Server.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectController",
+    "Method": "GetProject",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Project",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectController",
+    "Method": "Put",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "projectData",
+        "Type": "APM_Construction_Server.Models.Project",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectController",
+    "Method": "Delete",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectResourceController",
+    "Method": "GetProjectResources",
+    "RelativePath": "api/ProjectResource",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.ProjectResource, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectResourceController",
+    "Method": "Post",
+    "RelativePath": "api/ProjectResource",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectResourceData",
+        "Type": "APM_Construction_Server.Models.ProjectResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectResourceController",
+    "Method": "GetProjectResource",
+    "RelativePath": "api/ProjectResource/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.ProjectResource",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectResourceController",
+    "Method": "Put",
+    "RelativePath": "api/ProjectResource/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "projectResourceData",
+        "Type": "APM_Construction_Server.Models.ProjectResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ProjectResourceController",
+    "Method": "Delete",
+    "RelativePath": "api/ProjectResource/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ResourceController",
+    "Method": "GetResources",
+    "RelativePath": "api/Resource",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Resource, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ResourceController",
+    "Method": "Post",
+    "RelativePath": "api/Resource",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resourceData",
+        "Type": "APM_Construction_Server.Models.Resource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ResourceController",
+    "Method": "GetResource",
+    "RelativePath": "api/Resource/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Resource",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ResourceController",
+    "Method": "Put",
+    "RelativePath": "api/Resource/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resourceData",
+        "Type": "APM_Construction_Server.Models.Resource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.ResourceController",
+    "Method": "Delete",
+    "RelativePath": "api/Resource/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.TaskController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.Task, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.TaskController",
+    "Method": "Post",
+    "RelativePath": "api/Task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskData",
+        "Type": "APM_Construction_Server.Models.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.TaskController",
+    "Method": "GetTask",
+    "RelativePath": "api/Task/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.Task",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.TaskController",
+    "Method": "Put",
+    "RelativePath": "api/Task/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "taskData",
+        "Type": "APM_Construction_Server.Models.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.TaskController",
+    "Method": "Delete",
+    "RelativePath": "api/Task/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.UserController",
+    "Method": "GetClients",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[APM_Construction_Server.Models.User, APM Construction Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "APM_Construction_Server.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.UserController",
+    "Method": "GetClient",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APM_Construction_Server.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.UserController",
+    "Method": "Put",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "clientData",
+        "Type": "APM_Construction_Server.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APM_Construction_Server.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

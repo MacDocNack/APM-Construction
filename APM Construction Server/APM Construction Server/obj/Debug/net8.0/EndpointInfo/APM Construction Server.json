@@ -1,0 +1,1964 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "APM Construction Server",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Client": {
+      "get": {
+        "tags": [
+          "Client"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Client"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Client/{id}": {
+      "get": {
+        "tags": [
+          "Client"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Client"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Client"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Contractor": {
+      "get": {
+        "tags": [
+          "Contractor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Contractor"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Contractor"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Contractor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Contractor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Contractor/{id}": {
+      "get": {
+        "tags": [
+          "Contractor"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Contractor"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Contractor"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Contractor"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Contractor"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Contractor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Contractor"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Employee": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Employee/{id}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FinanceOperation": {
+      "get": {
+        "tags": [
+          "FinanceOperation"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FinanceOperation"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FinanceOperation"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FinanceOperation"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "FinanceOperation"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FinanceOperation/{id}": {
+      "get": {
+        "tags": [
+          "FinanceOperation"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/FinanceOperation"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FinanceOperation"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FinanceOperation"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "FinanceOperation"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FinanceOperation"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "FinanceOperation"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Job": {
+      "get": {
+        "tags": [
+          "Job"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Job"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Job"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Job"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Job"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Job/{id}": {
+      "get": {
+        "tags": [
+          "Job"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Job"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Job"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Job"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Job"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Job"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Job"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Project": {
+      "get": {
+        "tags": [
+          "Project"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Project"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Project"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Project"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Project"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Project/{id}": {
+      "get": {
+        "tags": [
+          "Project"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Project"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Project"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Project"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Project"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Project"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Project"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ProjectResource": {
+      "get": {
+        "tags": [
+          "ProjectResource"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProjectResource"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProjectResource"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProjectResource"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "ProjectResource"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ProjectResource/{id}": {
+      "get": {
+        "tags": [
+          "ProjectResource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProjectResource"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProjectResource"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProjectResource"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ProjectResource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProjectResource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "ProjectResource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Resource": {
+      "get": {
+        "tags": [
+          "Resource"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Resource"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Resource"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Resource"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Resource"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Resource/{id}": {
+      "get": {
+        "tags": [
+          "Resource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Resource"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Resource"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Resource"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Resource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Resource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Resource"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Task": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Task"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Task"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Task"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Task"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Task/{id}": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Task"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Task"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Task"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Task"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/User": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/User/{id}": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/User"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Client": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Phone": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Contractor": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Phone": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Employee": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Position": {
+            "type": "string",
+            "nullable": true
+          },
+          "Phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "Salary": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FinanceOperation": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdProject": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "OperationType": {
+            "type": "string",
+            "nullable": true
+          },
+          "OperationSum": {
+            "type": "number",
+            "format": "double"
+          },
+          "OperationDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "Description": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Job": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdTask": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdEmployee": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "AppointmentDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Project": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Budget": {
+            "type": "number",
+            "format": "double"
+          },
+          "IdClient": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdContractor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Description": {
+            "type": "string",
+            "nullable": true
+          },
+          "State": {
+            "type": "string",
+            "nullable": true
+          },
+          "DateStart": {
+            "type": "string",
+            "format": "date"
+          },
+          "DateEnd": {
+            "type": "string",
+            "format": "date"
+          },
+          "RequiredResources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Resource"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProjectResource": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdProject": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdResource": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Amount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Resource": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Unit": {
+            "type": "string",
+            "nullable": true
+          },
+          "PriceForUnit": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Task": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IdProject": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Description": {
+            "type": "string",
+            "nullable": true
+          },
+          "DateStart": {
+            "type": "string",
+            "format": "date"
+          },
+          "DateEnd": {
+            "type": "string",
+            "format": "date"
+          },
+          "State": {
+            "type": "string",
+            "nullable": true
+          },
+          "Priority": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "EmployeeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Login": {
+            "type": "string",
+            "nullable": true
+          },
+          "Password": {
+            "type": "string",
+            "nullable": true
+          },
+          "Role": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

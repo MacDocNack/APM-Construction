@@ -1,0 +1,6 @@
+@APM_Construction_Server_HostAddress = http://localhost:5117
+
+GET {{APM_Construction_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

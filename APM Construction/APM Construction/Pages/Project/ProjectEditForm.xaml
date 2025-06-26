@@ -1,0 +1,107 @@
+﻿<Page x:Class="APM_Construction.Pages.ProjectEditForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:APM_Construction.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProjectEditForm"
+      Background="AliceBlue">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Project Name:" FontSize="16"/>
+                <TextBlock Name="ProjectName" FontSize="16"/>
+            </StackPanel>
+            <Label Content="Budget"/>
+            <TextBox Name="Budget" MaxLength="10" PreviewTextInput="Budget_PreviewTextInput"/>
+
+            <!--Client form-->
+            <GroupBox Header="Client" Margin="0,10,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <StackPanel VerticalAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Client name:"/>
+                                <TextBlock Name="ClientName"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Client Phone:"/>
+                                <TextBlock Name="ClientPhone"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+
+            <!--Contractor form-->
+            <GroupBox Header="Contractor" Margin="0,10,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Client name:"/>
+                                <TextBlock Name="ContractorName"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Contractor phone:"/>
+                                <TextBlock Name="ContractorPhone"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+        </StackPanel>
+
+        <GroupBox Header="Description" Grid.Row="1" Grid.Column="0" Margin="10" VerticalAlignment="Top">
+            <TextBlock Name="Description" Height="170" TextWrapping="WrapWithOverflow"/>
+        </GroupBox>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="2">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="State"/>
+                    <ComboBox Name="StateList" Height="23"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Date Start"/>
+                <TextBlock Name="DateStart"/>
+                <Label Content="Date End"/>
+                <DatePicker Name="DateEnd"/>
+            </StackPanel>
+            
+            
+            <Label Content="Required resources"/>
+            <ListView Name="RequiredResourceList" Height="275" ItemTemplate="{StaticResource ResourceKey=RequiredResourceTemplate}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Add" Margin="5" Click="AddRequiredResource"/>
+                <Button Content="Remove" Margin="5" Click="RemoveRequiredResource"/>
+                <Button Content="Clear" Margin="5" Click="ClearAllRequiredResources"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5" VerticalAlignment="Bottom">
+            <Button Content="Edit project" Click="EditProject" Margin="5"/>
+            <Button Content="Back" Click="GoBack" Margin="5"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

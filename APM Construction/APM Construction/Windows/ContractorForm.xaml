@@ -1,0 +1,21 @@
+﻿<Window x:Class="APM_Construction.Windows.ContructorForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APM_Construction.Windows"
+        mc:Ignorable="d"
+        Title="ContractorForm" Height="300" Width="500">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="Name"/>
+            <TextBox Name="ContractorName" Width="350"/>
+            <Label Content="Phone"/>
+            <TextBox Name="Phone" Width="350"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="OK" Margin="5" Click="OK"/>
+                <Button Content="Cancel" Margin="5" Click="Cancel"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

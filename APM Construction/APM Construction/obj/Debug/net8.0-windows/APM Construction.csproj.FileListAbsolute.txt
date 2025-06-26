@@ -1,0 +1,218 @@
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.cache
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.lref
+C:\Users\User\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.exe
+C:\Users\User\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.deps.json
+C:\Users\User\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.runtimeconfig.json
+C:\Users\User\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.dll
+C:\Users\User\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.g.resources
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfo.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.sourcelink.json
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.dll
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\refint\APM Construction.dll
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.genruntimeconfig.cache
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\ref\APM Construction.dll
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.exe
+C:\Users\student\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.deps.json
+C:\Users\student\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.runtimeconfig.json
+C:\Users\student\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.dll
+C:\Users\student\source\repos\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectCreateForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectEditForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectPage.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectViewForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.cache
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.lref
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectCreateForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectEditForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectPage.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectViewForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.baml
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.g.resources
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfo.cs
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.dll
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\refint\APM Construction.dll
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.genruntimeconfig.cache
+C:\Users\student\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\ref\APM Construction.dll
+E:\Курсовая\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.exe
+E:\Курсовая\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.deps.json
+E:\Курсовая\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.runtimeconfig.json
+E:\Курсовая\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.dll
+E:\Курсовая\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.pdb
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectCreateForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectEditForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectPage.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectViewForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.g.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.cache
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.lref
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectCreateForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectEditForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectPage.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ProjectViewForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskCreateForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskEditForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskPage.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\TaskViewForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContructorForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.baml
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.g.resources
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfoInputs.cache
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfo.cs
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.csproj.CoreCompileInputs.cache
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.dll
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\refint\APM Construction.dll
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.pdb
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.genruntimeconfig.cache
+E:\Курсовая\APM Construction\APM Construction\obj\Debug\net8.0-windows\ref\APM Construction.dll
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectCreateForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectEditForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectPage.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectViewForm.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.g.cs
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectCreateForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectEditForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectPage.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectViewForm.baml
+C:\Users\User\source\repos\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.dll
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.exe
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.deps.json
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.runtimeconfig.json
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectCreateForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectEditForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectPage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectViewForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskCreateForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskEditForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskPage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskViewForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContractorForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.cache
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction_MarkupCompile.lref
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\EmployeePage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectCreateForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectEditForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectPage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Project\ProjectViewForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\ResourcePage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskCreateForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskEditForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskPage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\Task\TaskViewForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ClientForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ContractorForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\EmployeeForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\RequiredResources.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Windows\ResourcesForm.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.g.resources
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.AssemblyInfo.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.sourcelink.json
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.dll
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\refint\APM Construction.dll
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\APM Construction.genruntimeconfig.cache
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\bin\Debug\net8.0-windows\APM Construction.pdb
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\ref\APM Construction.dll
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+C:\Users\User\source\repos\APM\APM Construction\APM Construction\obj\Debug\net8.0-windows\Pages\RegistrationPage.baml
